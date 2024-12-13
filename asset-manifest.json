@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMitra/static/css/main.f855e6bc.css",
+    "main.js": "/TextMitra/static/js/main.f548b312.js",
+    "static/js/453.a7404434.chunk.js": "/TextMitra/static/js/453.a7404434.chunk.js",
+    "index.html": "/TextMitra/index.html",
+    "main.f855e6bc.css.map": "/TextMitra/static/css/main.f855e6bc.css.map",
+    "main.f548b312.js.map": "/TextMitra/static/js/main.f548b312.js.map",
+    "453.a7404434.chunk.js.map": "/TextMitra/static/js/453.a7404434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f548b312.js"
+  ]
+}
